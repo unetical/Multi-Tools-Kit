@@ -21,4 +21,15 @@ sudo bash unetical_v1.sh
 Yazmanız Yeterlidir.
 
 
+İçinde Bulunanlar:
+->Openvpn
+->OpenvpnGNome
+->OOni 
+->ManaToolKit
+->Torchat
+->Priv8 Rat ve Fudder Shell
+->Etherape
+->Vip Vpn Önerisi
+->Bitcoin Cüzdan Önerisi.
+
 www.UNETİCAL.eu
